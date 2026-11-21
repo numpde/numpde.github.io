@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://numpde.github.io/dapp32/sitemap.xml
